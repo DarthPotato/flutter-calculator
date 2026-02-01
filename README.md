@@ -80,6 +80,8 @@ The calculator has been designed to handle:
 
 **GitHub Copilot**
 
+**Yilmaz Kasapoglu**
+
 ---
 
 Made with 💛 and Flutter!
